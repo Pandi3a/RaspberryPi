@@ -6,7 +6,7 @@ You need Raspberry Pi(tested on 2) 2017-11-29-raspbian-stretch.img(with Desktop 
 FUTURE IMPROVEMENTS
 ################################################################################
 
-Video player script written in python is on its way and auto mount script for mounting usb on boot using raspbian-stretch(without Desktop)
+Video player script written in python is on its way and auto mount script for mounting usb on boot using raspbian-stretch-lite(without Desktop)
 
 ################################################################################
 
