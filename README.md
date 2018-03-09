@@ -15,7 +15,9 @@ Video player script written in python is on its way and auto mount script for mo
 2.Give them permissions:
 
    $ chmod 755 /home/pi/usbsync.sh
+   
    $ chmod 755 /home/pi/usbsync.py
+   
    $ chmod 755 /home/pi/videoplayer.sh
 
 3.Add to crontab
