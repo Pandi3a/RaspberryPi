@@ -1,6 +1,13 @@
 # RaspberryPi Video
 Raspberry Pi Project to loop trough videos from Videos folder and rsync from USB flash drive when inserted(every 5 minutes scans for usb drive and videos)
 
+You need Raspberry Pi(tested on 2) 2017-11-29-raspbian-stretch.img(with Desktop as it has auto mount function.)
+
+FUTURE IMPROVEMENTS
+################################################################################
+
+Video player script written in python is on its way and auto mount script for mounting usb on boot using raspbian-stretch(without Desktop)
+
 ################################################################################
 
 1.Place scripts in home directory.
@@ -22,6 +29,7 @@ choose your prefered editor and at the end add these two lines:
 
 ################################################################################
 
-The script videoplayer.sh is from http://www.cenolan.com/2013/03/looping-video-playlist-omxplayer-raspberry-pi/ 
+The script videoplayer.sh is from
+ http://www.cenolan.com/2013/03/looping-video-playlist-omxplayer-raspberry-pi/ 
 
 I do not take credit for it at all!!! Thakns to this guy i owe him a beer!!!
